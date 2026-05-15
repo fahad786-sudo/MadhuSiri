@@ -132,15 +132,13 @@ To run this project:
 
 # 📸 Screenshots
 
-## Home Screen
-(Add screenshot later)
+![Maps Screen](map.png)
 
-## Maps Screen
-(Add screenshot later)
+![Alert System](alert.png)
 
-## Alert System
-(Add screenshot later)
+![Health Screen](health.png)
 
+![Logo](logo.png)
 ---
 
 # ⭐ Future Improvements
